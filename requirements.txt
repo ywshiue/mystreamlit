@@ -1,4 +1,4 @@
-openpyxl
+openpyxll==2.6.4
 altair
 numpy
 pandas
