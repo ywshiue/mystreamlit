@@ -2,7 +2,6 @@ import streamlit as st
 import os
 import pandas as pd
 import re
-from PIL import Image
 
 st.title(':blue[薛家聚餐-投票調查]')
 # 建立一個勾選題
