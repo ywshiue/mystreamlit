@@ -3,4 +3,4 @@ numpy
 pandas
 pydeck
 streamlit
-openpyxl
+git+https://github.com/openpyxl#egg=openpyxl
