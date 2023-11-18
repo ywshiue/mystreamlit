@@ -3,6 +3,7 @@ import os
 import pandas as pd
 import re
 
+
 st.title(':blue[薛家聚餐-投票調查]')
 # 建立一個勾選題
 options_1=['老爸','老媽','10','老哥','小歐','陳柏偉','15']
